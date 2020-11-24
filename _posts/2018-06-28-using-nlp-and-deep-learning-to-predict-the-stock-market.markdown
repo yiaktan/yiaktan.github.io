@@ -34,7 +34,9 @@ Count of documents by company’s industry
 
 For each document release, one year, one quarter, and one month historical moving average price movements were calculated using 20, 10, and 5 day windows based on the time right before a document’s release, and normalized by the change in the S&P 500 index. All windows refer to days that the NYSE and Nasdaq were actually open (non-holiday weekdays). The target feature was calculated as the change in price of a stock right before and after a document’s release, normalized by the change in the S&P 500. For example, for a company that released a document on February 5, 2018, the change in its opening and adjusted close price was calculated, minus the change during the same time for the S&P 500 index. The normalized changes were labeled as either “up” (> 1%), “down” (< -1% ), or “stay“(between -1 and 1%).
 
-List of features including historical stock movements, text metadata, documents, and trade signals### Text Preprocessing
+List of features including historical stock movements, text metadata, documents, and trade signals
+
+### Text Preprocessing
 
 I preprocessed all texts by removing stopwords, punctuation, and numbers, lemmatizing words and converting them to lower case. This was accomplished using the NLTK WordNet corpus reader in combination with Dask for a multithreading speedboost. All documents were padded with zeros to a uniform length of 34603 words. This cutoff was chosen at the 90th percentile of document lengths in order to preserve most textual information but prevent the dataset from becoming unnecessarily large from the few largest texts.
 
