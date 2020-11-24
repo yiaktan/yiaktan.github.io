@@ -6,8 +6,8 @@ date:	2018-03-13
 
   ![](/img/1*u1TtXxqQYw20uvAtvLu4jQ.jpeg)
   ville de Barcarès 2013, “*Vue de la scène du festival de musique électronique Electrobeach” — Wikimedia Commons*
-  
-  ### Introduction
+
+### Introduction
 
 If you are a live music aficionado, you probably have that one friend who bragged about how she made a thousand dollars flipping Coachella tickets, or tickets for some other event that are expensive and difficult to obtain. You’ve probably struggled to snag affordable tickets off of Facebook for that one event you were dying to go to, then also bought tickets off of someone for so cheap you were afraid it was a scam.
 
