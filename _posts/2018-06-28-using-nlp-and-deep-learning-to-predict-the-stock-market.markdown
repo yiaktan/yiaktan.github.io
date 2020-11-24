@@ -26,6 +26,7 @@ After removing a handful of unusable texts, I ended up with a total of 17,000 do
 
 ![](/img/1*8_HS2hgzBcEW4t8ZAfYRKw.png)
 Count of documents released each year
+
 ![](/img/1*v3qs5ObRmR7J6Qjc7SSRRw.png)
 Count of documents by company’s industry
 
