@@ -1,6 +1,6 @@
 ---
 layout:	post
-title:	"Using NLP and Deep Learning to Predict the Stock Market"
+title:	"Using NLP and Deep Learning to Predict Stock Price Movememnts"
 date:	2018-06-28
 ---
 ![](/img/1*FVn6vTtnhgFWzjUPxLteOg.jpeg)
