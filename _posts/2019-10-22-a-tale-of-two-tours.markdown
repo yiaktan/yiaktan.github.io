@@ -2,6 +2,7 @@
 layout:	post
 title:	"A Tale of Two Tours"
 date:	2019-10-22
+excerpt_separator: <!--more-->
 ---
 
   ### Taylor Swift and Ed Sheeran have data-driven prices; understanding your audience as road to success
@@ -10,6 +11,7 @@ date:	2019-10-22
 What do Ed Sheeran and Taylor Swift have in common? Beyond breakup ballads and impressive collections of musical accolades and exes, Sheeran and Swift dominated the charts for gross revenue from tours in 2018 (More precisely, Sheeran has broken records for the highest-grossing tour of all time), collectively taking in 1 in every 7 dollars spent on the top 100 tours of 2018. Even more surprising is how they were able to achieve this. Sheeran did away with VIP and meet and greet packages, selling tickets at prices below what is considered average for a worldwide pop tour, and performing at many smaller, more intimate venues. By contrast, Swift hiked prices significantly, to be one of the most expensive tours of 2018 and performed only at large-capacity stadiums.
 
 Though the two stars took different paths to their record breaking numbers, they both have one striking similarity: The use of data-driven pricing strategies to identify fans, adjust prices to market demand, and squeeze out the secondary market.
+<!--more-->
 
 #### Ed Sheeran’s Ticket Sales Chart — “I’m in love with the shape of you”
 

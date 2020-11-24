@@ -2,10 +2,12 @@
 layout:	post
 title:	"Using NLP and Deep Learning to Predict Stock Price Movememnts"
 date:	2018-06-28
+excerpt_separator: <!--more-->
 ---
 ![](/img/1*FVn6vTtnhgFWzjUPxLteOg.jpeg)
 
-  In the financial services and banking industry, armies of analysts are dedicated to pouring over, analyzing, and attempting to quantify qualitative data from news and SEC mandated reporting. The vast amount of textual and quantitative information involved in analyzing a company means that an analyst is dedicated to covering only a few companies, and the process of digging through dry reports is hardly the sexiest job on Wall Street.
+In the financial services and banking industry, armies of analysts are dedicated to pouring over, analyzing, and attempting to quantify qualitative data from news and SEC mandated reporting. The vast amount of textual and quantitative information involved in analyzing a company means that an analyst is dedicated to covering only a few companies, and the process of digging through dry reports is hardly the sexiest job on Wall Street.
+excerpt_separator: <!--more-->
 
 Nonetheless, equity research departments are vital components of the financial services industry, despite the criticisms they face for conflicts of interest between a banks’ need for profit, internal team politics, and a fiduciary duty to serve clients. Stumbling through the web I ran into several academic papers and projects that explore natural language processing and machine learning techniques to explore solutions to this problem, but most relied on relatively elementary methods. As an enthusiast of topics like markets, prices, and machine learning, I saw an opportunity for a new data science project. My hypothesis is that by reducing the human biases in the analysis of these findings, more useful signals could be uncovered and traded upon.
 
