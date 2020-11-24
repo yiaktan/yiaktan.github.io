@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Yusuf Explores ML 
+title: Yusuf Explores ML
 email: contact@yusufaktan.com
 description: >- # this means to ignore newlines until "baseurl:"
   Exploring topics in data science, machine learning, backend development, and whatever else.
@@ -32,6 +32,12 @@ medium_username: yiaktan
 theme: minima
 plugins:
   - jekyll-feed
+
+defaults:
+  - scope:
+      path: "img"
+    values:
+      image: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
