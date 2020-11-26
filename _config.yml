@@ -29,6 +29,9 @@ social_links:
   twitter: yusufisms
   github:  yiaktan
   medium: yiaktan
+
+github_username: yiaktan
+twitter_usernamee: yiaktan
 show_excerpts: true
 
 #xcerpt_separator: <!--more-->
@@ -39,6 +42,7 @@ paginate_path: "blog/page:num"
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 defaults:
   - scope:
