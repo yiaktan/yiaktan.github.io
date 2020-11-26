@@ -1,16 +1,11 @@
 ---
 layout: default
 ---
- 1 <div class="home">
- 2    {% include nav.html %}
- 3    <section>
-        4 <ul>
-            {% for post in site.posts %}
-            <li>
-                <a href="{{ post.url }}">{{ post.title }}</a>
-                {{ post.excerpt }}
-            </li>
-            {% endfor %}
-        </ul>
-14    </section>
-15 </div>
+<ul>
+    {% for post in site.posts %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        {{ post.excerpt }}
+      </li>
+    {% endfor %}
+  </ul>
