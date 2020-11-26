@@ -6,11 +6,11 @@ layout: home
 ---
 Hello World!
 
-<ul class="post-list">
+<!-- <ul class="post-list">
     {% for post in site.posts %}
       <li>
         <a href="{{ post.url }}">{{ post.title }}</a><br>
         {{ post.excerpt | strip_html | truncatewords:75 }}
       </li>
     {% endfor %}
-  </ul>
+  </ul> -->
