@@ -6,8 +6,6 @@ date:	2018-03-13
 
   ![](/img/1*u1TtXxqQYw20uvAtvLu4jQ.jpeg)
 
-### Introduction
-
 If you are a live music aficionado, you probably have that one friend who bragged about how she made a thousand dollars flipping Coachella tickets, or tickets for some other event that are expensive and difficult to obtain. You’ve probably struggled to snag affordable tickets off of Facebook for that one event you were dying to go to, then also bought tickets off of someone for so cheap you were afraid it was a scam.
 
 I’ve had all of these experiences, and often struggled to understand the logic of how people price tickets on the secondary market. Is there a method to all of this madness? Thankfully, there is data science to help us make sense of the market and pricings. To answer this question, I harnessed the power of Python and machine learning packages like Pandas and SciKit Learn to uncover the most important factors in the secondhand market pricings of concert tickets in the United States.
