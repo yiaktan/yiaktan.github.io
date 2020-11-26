@@ -6,12 +6,11 @@ layout: default
  3    <section>
  4       <ul class="post-list">
  5          {% for post in site.posts %}
- 6             {% unless post.preview %}
- 7          <li>
- 8             [<time datetime="{{ post.date | date_to_xmlschema }}"></time>{{ post.date | date: "%Y-%m-%d" }}]
- 9             <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a>
-10          </li>
-11             {% endunless %}
+ 6           {% if post.content contains '<!--more-->' %}
+                {{ post.content | split:'<!--more-->' | first }}
+                {% else %}
+                <!-- Case for when no excerpt is defined -->
+                {% endif %}
 12          {% endfor %}
 13       </ul>
 14    </section>
