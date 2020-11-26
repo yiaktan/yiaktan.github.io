@@ -2,7 +2,6 @@
 layout:	post
 title:	"How Much is Your Concert Ticket Really Worth?"
 date:	2018-03-13
-excerpt_separator: <!--more-->
 ---
 
   ![](/img/1*u1TtXxqQYw20uvAtvLu4jQ.jpeg)

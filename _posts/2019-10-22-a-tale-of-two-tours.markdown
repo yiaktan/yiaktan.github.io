@@ -2,7 +2,6 @@
 layout:	post
 title:	"A Tale of Two Tours"
 date:	2019-10-22
-excerpt_separator: <!--more-->
 ---
 
 ### Taylor Swift and Ed Sheeran have data-driven prices; understanding your audience as road to success
