@@ -9,7 +9,7 @@ Hello World!
 <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>
+        <a href="{{ post.url }}">{{ post.title }}</a><br>
         {{ post.excerpt | strip_html | truncatewords:75 }}
       </li>
     {% endfor %}

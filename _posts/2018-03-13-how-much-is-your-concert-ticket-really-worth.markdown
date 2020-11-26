@@ -5,7 +5,6 @@ date:	2018-03-13
 ---
 
   ![](/img/1*u1TtXxqQYw20uvAtvLu4jQ.jpeg)
-  ville de Barcarès 2013, “*Vue de la scène du festival de musique électronique Electrobeach” — Wikimedia Commons*
 
 ### Introduction
 
