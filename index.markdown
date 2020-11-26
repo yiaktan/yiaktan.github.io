@@ -4,13 +4,4 @@
 
 layout: home
 ---
-Hello World!
-
-<!-- <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <a href="{{ post.url }}">{{ post.title }}</a><br>
-        {{ post.excerpt | strip_html | truncatewords:75 }}
-      </li>
-    {% endfor %}
-  </ul> -->
+My name is Yusuf. The best way to learn is to teach someone else. So here we go.
