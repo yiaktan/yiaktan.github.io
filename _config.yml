@@ -27,12 +27,12 @@ url: "https//:www.yusufaktan.com" # the base hostname & protocol for your site, 
 
 social_links:
   twitter: yusufisms
-  github:  yiaktan
+  github: yiaktan
   medium: yiaktan
 
 github_username: yiaktan
 twitter_username: yusufisms
-medium_username: yiaktan
+#medium_username: yiaktan
 linkedin_username: yiaktan
 show_excerpts: true
 
