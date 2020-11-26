@@ -24,7 +24,7 @@ Much of the tour was also spent in smaller venues and in cities not typically fr
 
 #### Taylor Swift To Ticket Scalpers: “Look what you made me do”
 
-While Sheeran broke records with lower prices, Swift changed the tour game in a different way. Her 2018 *Reputation *tour raised prices significantly with tickets sold at an average of $119, one of the most expensive tours of the year. This was also Swift’s first all-stadium tour, meaning she completely eschewed performances at smaller venues. She also introduced a dynamic pricing system similar to airlines, which sometimes drove ticket prices to change by hundreds of dollars over the booking period. Despite criticism that her shows were dotted with blank space, she was able to easily shake it off after bringing in 40% more money on her *Reputation* tour than *1989 *in 2014*, *and breaking the gross revenue record for any North American tour.
+While Sheeran broke records with lower prices, Swift changed the tour game in a different way. Her 2018 *Reputation* tour raised prices significantly with tickets sold at an average of $119, one of the most expensive tours of the year. This was also Swift’s first all-stadium tour, meaning she completely eschewed performances at smaller venues. She also introduced a dynamic pricing system similar to airlines, which sometimes drove ticket prices to change by hundreds of dollars over the booking period. Despite criticism that her shows were dotted with blank space, she was able to easily shake it off after bringing in 40% more money on her *Reputation* tour than *1989 *in 2014*, *and breaking the gross revenue record for any North American tour.
 
 Why doesn’t Taylor care about having a sold out show, and how did that actually lead to more money?
 
