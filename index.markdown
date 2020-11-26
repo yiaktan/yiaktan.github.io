@@ -4,4 +4,5 @@
 
 layout: home
 ---
-My name is Yusuf. The best way to learn is to teach someone else. So here we go.
+My name is Yusuf. I'm a data scientist in Berlin. This blog is about machine learning, statistics, backend development, and anything else that might catch my eye.<br><br>
+They say that the best way to learn is to teach someone else. So here we go...
