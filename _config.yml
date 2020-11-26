@@ -24,10 +24,14 @@ description: >- # this means to ignore newlines until "baseurl:"
   Exploring topics in data science, machine learning, backend development, and whatever else.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https//:www.yusufaktan.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: yusufisms
-github_username:  yiaktan
-medium_username: yiaktan
-excerpt_separator: <!--more-->
+
+social_links:
+  twitter: yusufisms
+  github:  yiaktan
+  medium: yiaktan
+show_excerpts: true
+
+#xcerpt_separator: <!--more-->
 paginate: 10
 paginate_path: "blog/page:num"
 
