@@ -31,7 +31,9 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h3>
-        {{ post.excerpt | strip_html | truncatewords:75 }}
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
       </li>
       {%- endfor -%}
     </ul>
